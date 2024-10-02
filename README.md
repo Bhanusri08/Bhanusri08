@@ -1,9 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Data Analytics<br>👯 I’m looking to collaborate on Data Science related work<br>🔍 I am looking for help with AI/ML enthusiasts and VLSI architects.<br>🌱 I’m currently learning Deep Learning<br>
-🎉 **Fun Facts**:
-- When I'm not coding, you might find me exploring new places or trying out new cuisines 🍜.
-- I love watching sci-fi movies and am always up for a discussion about the latest tech trends 🚀.
-- Big fan of puzzles and brain teasers – they keep me sharp and ready for the next challenge 🧩.
+🔭 I’m currently working on Machine Learning and Data Analytics<br>👯 I’m looking to collaborate on Data Science related work<br>🔍 I am looking for help with AI/ML enthusiasts and VLSI architects.<br>🌱 I’m currently learning Deep Learning<br>⚡ Fun facts: When I'm not coding, you might find me exploring new places or trying out new cuisines 🍜.<br>I love watching sci-fi movies and am always up for a discussion about the latest tech trends 🚀.<br>Big fan of puzzles and brain teasers – they keep me sharp and ready for the next challenge 🧩.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/_itz_shree_2302) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bhanusri-bandi-b4348b260) 
@@ -16,8 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhanusri08&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" alt="Gif" width=700 height=500 /> <br/>
 ---
 [![](https://visitcount.itsvg.in/api?id=Bhanusri08&icon=4&color=0)](https://visitcount.itsvg.in)
 
